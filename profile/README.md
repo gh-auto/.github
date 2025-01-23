@@ -31,11 +31,19 @@ Our team loves coffee and donuts for breakfast!
 
 ## Most Popular Actions
 
-Here are some of our most popular actions based on stars:
+Here are some of our most popular actions:
 
-- [Action 1](https://github.com/marketplace/actions/action-1)
-- [Action 2](https://github.com/marketplace/actions/action-2)
-- [Action 3](https://github.com/marketplace/actions/action-3)
+### Most popular:
+
+- [facebook/react](https://github.com/facebook/react) - ⭐️ 231586
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - ⭐️ 189650
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - ⭐️ 171252
+- [airbnb/javascript](https://github.com/airbnb/javascript) - ⭐️ 145883
+- [vercel/next.js](https://github.com/vercel/next.js) - ⭐️ 128753
+
+### Most used:
+
+%{{TOP_ACTIONS_USED}}
 
 ## GitHub Actions Marketplace
 

@@ -11,6 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/gh-auto/.github.git"
   },
+  "type": "module",
   "author": "",
   "license": "ISC",
   "bugs": {
