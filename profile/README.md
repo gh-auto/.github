@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to GitHub Auto 👋🤖
 
 🙋‍♀️ **About Us**
 We are dedicated to fetching, building, and sharing GitHub Actions workflows. Our mission is to streamline the automation process for developers.
@@ -8,8 +8,7 @@ We are dedicated to fetching, building, and sharing GitHub Actions workflows. Ou
 - All contributions must adhere to our [Code of Conduct](../CODE_OF_CONDUCT.md).
 - We welcome contributions from the community. Please read our [contribution guidelines](../CONTRIBUTING.md) to get started.
 
-> [!IMPORTANT]
-> **AI Tools Usage Disclaimer**
+> [!IMPORTANT] > **AI Tools Usage Disclaimer**
 > This organization welcomes the use of AI tools (including GitHub Copilot and ClaudeAI) for code generation and workflow development. While these tools enhance our productivity, please:
 >
 > - Always review AI-generated code before implementation
