@@ -35,11 +35,11 @@ Here are some of our most popular actions:
 
 ### Most popular:
 
-- [facebook/react](https://github.com/facebook/react) - ⭐️ 231586
-- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - ⭐️ 189650
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - ⭐️ 171252
-- [airbnb/javascript](https://github.com/airbnb/javascript) - ⭐️ 145883
-- [vercel/next.js](https://github.com/vercel/next.js) - ⭐️ 128753
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - ⭐️ 14150
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - ⭐️ 4344
+- [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - ⭐️ 3046
+- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - ⭐️ 2764
+- [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - ⭐️ 2232
 
 ### Most used:
 

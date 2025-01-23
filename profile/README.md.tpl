@@ -33,7 +33,7 @@ Our team loves coffee and donuts for breakfast!
 
 Here are some of our most popular actions:
 
-### Most popular:
+### Most popular actions repos:
 
 %{{TOP_ACTIONS_STAR}}
 

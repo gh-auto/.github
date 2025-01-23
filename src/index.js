@@ -1,5 +1,5 @@
-const fs = require('fs').promises;
-const path = require('path');
+
+import { promises as fs } from 'fs';
 import { PLACEHOLDER } from './constants.js';
 const githubToken = process.env.GH_TOKEN ? process.env.GH_TOKEN : process.env.GITHUB_TOKEN;
 
@@ -56,17 +56,14 @@ async function getGitHubStats(query, sort = 'stars', order = 'desc', perPage = 1
 async function updateReadme() {
     try {
         // Read the template file
-        const templatePath = path.join(__dirname, '../profile/README.md.tpl');
-        const outputPath = path.join(__dirname, '../profile/README.md');
-        
-        const template = await fs.readFile(templatePath, 'utf8');
+        const template = await fs.readFile('./profile/README.md.tpl', 'utf8');
 
         // Replace placeholders in the template
-        let content = template;
-        content = content.replace(PLACEHOLDER.POPULAR, await getGitHubStats('topic:github-action', 'stars', 'desc', 5));
+    
+        let content = template.replace(PLACEHOLDER.POPULAR, await getGitHubStats('topic:github-action', 'stars', 'desc', 5));
 
         // Write the processed content to README.md
-        await fs.writeFile(outputPath, content, 'utf8');
+        await fs.writeFile('./profile/README.md', content, 'utf8');
         
         console.log('README.md has been updated successfully');
     } catch (error) {
