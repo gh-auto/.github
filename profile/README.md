@@ -6,7 +6,7 @@ We are dedicated to fetching, building, and sharing GitHub Actions workflows. Ou
 🌈 **Contribution Guidelines**
 We welcome contributions from the community. Please read our [contribution guidelines](../CONTRIBUTING.md) to get started.
 
-> [!WARNING] > **AI Tools Usage Disclaimer**
+> [!CAUTION] **AI Tools Usage Disclaimer**
 >
 > This organization welcomes the use of AI tools (including GitHub Copilot and ClaudeAI) for code generation and workflow development. While these tools enhance our productivity, please:
 >
