@@ -35,7 +35,7 @@ Here are some of our most popular actions:
 
 ### Most popular actions repos:
 
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - ⭐️ 14151
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - ⭐️ 14152
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - ⭐️ 4344
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - ⭐️ 3046
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - ⭐️ 2764
