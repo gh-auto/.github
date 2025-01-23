@@ -38,16 +38,41 @@ We welcome contributions from the community. Here are some guidelines to help yo
 
 Please note that this project is governed by a [Code of Conduct](../CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
-> [!IMPORTANT]
-> This organization welcomes the use of AI tools (including GitHub Copilot and ClaudeAI) for
-> code generation and workflow development. While these tools enhance our productivity
-> please:
->
-> - Always review AI-generated code before implementation
-> - Verify security implications of AI suggestions
-> - Test thoroughly as AI can produce incorrect or outdated code
-> - Follow our AI usage guidelines in the contribution docs
-> - Report any AI-related issues or concerns promptly
+## AI Usage Guidelines
+
+[!TIP]
+
+> When using AI tools like GitHub Copilot or Claude, following these guidelines ensures high-quality contributions.
+
+- Code Review
+
+  - [ ] Carefully review all AI-generated code
+  - [ ] Ensure code follows project standards
+  - [ ] Verify functionality matches requirements
+
+- Security
+
+  - [ ] Scan for security vulnerabilities
+  - [ ] Remove any sensitive information
+  - [ ] Validate endpoints and auth flows
+
+- Testing
+
+  - [ ] Write comprehensive tests
+  - [ ] Cover edge cases and error states
+  - [ ] Run full test suite locally
+
+- Documentation
+
+  - [ ] Document complex AI-generated logic
+  - [ ] Update relevant project docs
+  - [ ] Include AI usage context in PR
+
+- Quality
+
+  - [ ] Format to project standards
+  - [ ] Eliminate dead/redundant code
+  - [ ] Optimize for maintainability
 
 ## License
 
