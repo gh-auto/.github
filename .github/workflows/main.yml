@@ -19,7 +19,7 @@ jobs:
           node-version: "22.x"
 
       - name: Install dependencies
-        run: npm ci
+        run: npm ic
 
       - name: Update README
         run: npm run update
