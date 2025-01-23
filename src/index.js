@@ -1,7 +1,7 @@
 const fs = require('fs').promises;
 const path = require('path');
 const PLACEHOLDER = require('./constants').default;
-const githubToken = process.env.GITHUB_TOKEN;
+const githubToken = process.env.GH_TOKEN ? process.env.GH_TOKEN : process.env.GITHUB_TOKEN;
 
 if (!githubToken) {
     throw new Error('GITHUB_TOKEN environment variable is not set');
