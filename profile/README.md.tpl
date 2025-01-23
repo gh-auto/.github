@@ -1,6 +1,6 @@
 ## Welcome to GitHub Auto 👋🤖
 
-🙋‍♀️ **About Us**
+## 🙋‍♀️ **About Us**
 We are dedicated to fetching, building, and sharing GitHub Actions workflows. Our mission is to streamline the automation process for developers.
 
 🌈 **Contribution Guidelines**
