@@ -40,8 +40,7 @@ Please note that this project is governed by a [Code of Conduct](../CODE_OF_COND
 
 ## AI Usage Guidelines
 
-[!TIP]
-
+> [!TIP]
 > When using AI tools like GitHub Copilot or Claude, following these guidelines ensures high-quality contributions.
 
 - Code Review
