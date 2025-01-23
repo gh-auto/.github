@@ -38,6 +38,17 @@ We welcome contributions from the community. Here are some guidelines to help yo
 
 Please note that this project is governed by a [Code of Conduct](../CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
+> [!IMPORTANT]
+> This organization welcomes the use of AI tools (including GitHub Copilot and ClaudeAI) for
+> code generation and workflow development. While these tools enhance our productivity
+> please:
+>
+> - Always review AI-generated code before implementation
+> - Verify security implications of AI suggestions
+> - Test thoroughly as AI can produce incorrect or outdated code
+> - Follow our AI usage guidelines in the contribution docs
+> - Report any AI-related issues or concerns promptly
+
 ## License
 
 By contributing to this project, you agree that your contributions will be licensed under the MIT License.
