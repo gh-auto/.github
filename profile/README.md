@@ -36,9 +36,9 @@ Here are some of our most popular actions:
 ### Most popular actions repos:
 
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - ⭐️ 14222
-- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - ⭐️ 4351
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - ⭐️ 4352
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - ⭐️ 3068
-- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - ⭐️ 2776
+- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - ⭐️ 2777
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - ⭐️ 2253
 
 ### Most used:
