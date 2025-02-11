@@ -35,15 +35,15 @@ Here are some of our most popular actions:
 
 ### Most popular actions repos:
 
+%{{TOP_ACTIONS_STAR}}
+
+### Most used:
+
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - ⭐️ 14247
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - ⭐️ 4357
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - ⭐️ 3073
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - ⭐️ 2784
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - ⭐️ 2255
-
-### Most used:
-
-%{{TOP_ACTIONS_USED}}
 
 ## GitHub Actions Marketplace
 
