@@ -61,6 +61,7 @@ async function updateReadme() {
         // Replace placeholders in the template
     
         let content = template.replace(PLACEHOLDER.POPULAR, await getGitHubStats('topic:github-action', 'stars', 'desc', 5));
+        content = template.replace(PLACEHOLDER.USED, await getGitHubStats('topic:github-action', 'stars', 'desc', 5));
 
         // Write the processed content to README.md
         await fs.writeFile('./profile/README.md', content, 'utf8');
