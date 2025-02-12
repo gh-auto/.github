@@ -39,7 +39,7 @@ Here are some of our most popular actions:
 
 ### Most used:
 
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - ⭐️ 14249
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - ⭐️ 14250
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - ⭐️ 4358
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - ⭐️ 3073
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - ⭐️ 2784
