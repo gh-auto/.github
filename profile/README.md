@@ -43,7 +43,7 @@ Here are some of our most popular actions:
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - ⭐️ 4358
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - ⭐️ 3075
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - ⭐️ 2789
-- [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - ⭐️ 2260
+- [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - ⭐️ 2261
 
 ## GitHub Actions Marketplace
 
