@@ -40,7 +40,7 @@ Here are some of our most popular actions:
 ### Most used:
 
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - ⭐️ 14290
-- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - ⭐️ 4360
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - ⭐️ 4361
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - ⭐️ 3082
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - ⭐️ 2796
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - ⭐️ 2269
